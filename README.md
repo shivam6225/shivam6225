@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivam6225
-- 👀 I’m interested in various types of programming language and web development. I aspire to be a Data Scientist and further enhance my knowledge in the field
+- 👀 I’m interested in various types of programming language and web development. I aspire to be a Data Scientist and further enhance my knowledge in the field and learn new algorithms
 - 🌱 I’m currently learning C/C++/Python/R
 - 📫 How to reach me shivampahariya6225@gmail.com
 
